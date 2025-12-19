@@ -1,8 +1,9 @@
 # Paul Galban
-AI Automation Engineer | Python | Integrations & LLM Ops (Remote Worldwide)
 
-I build reliable automation systems: Python workflows, API integrations, LLM toolchains, and evaluation/QA harnesses.
-Focus: reproducibility, logging, and measurable impact (time saved, fewer errors, lower cost).
+Product Manager – AI Automation with hands-on Python experience.
+I turn AI prototypes into reliable, reproducible workflows using CI/CD,
+testing, and clear documentation.
+
 
 ## Featured Work
 - **python-ai-automation-suite** — End-to-end automation workflow with retries, logging, clean config
