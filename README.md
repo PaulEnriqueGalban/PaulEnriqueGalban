@@ -6,9 +6,9 @@ testing, and clear documentation.
 
 
 ## Featured Work
-- **python-ai-automation-suite** — End-to-end automation workflow with retries, logging, clean config
-- **llm-eval-harness** — Lightweight evaluation runner for prompt/LLM regression and reporting
-- **vision-hud-controller** — Computer vision demo with HUD/overlay controls and saved settings
+- [python-ai-automation-suite](https://github.com/PaulEnriqueGalban/python-ai-automation-suite) — …
+- [llm-eval-harness](https://github.com/PaulEnriqueGalban/llm-eval-harness) — …
+- [vision-hud-controller](https://github.com/PaulEnriqueGalban/vision-hud-controller) — …
 
 ## Tech
 Python • CI/CD • Testing • Git • GitHub Actions • Automation • LLM Evaluation (rubrics & regression testing) • Computer Vision.
