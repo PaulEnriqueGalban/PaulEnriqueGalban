@@ -16,4 +16,4 @@ Open to: AI evaluation, data annotation, QA (manual), operations support, and te
 Python • CI/CD • Testing • Git • GitHub Actions • Automation • LLM Evaluation (rubrics & regression testing) • Computer Vision.
 
 ## Availability
-100% Remote (Worldwide) • Async-friendly communication • Strong written English • Comfortable on calls • Bilingual (EN/ES)
+100% Remote (US/Florida + Worldwide async) • …
