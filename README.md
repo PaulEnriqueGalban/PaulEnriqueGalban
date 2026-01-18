@@ -3,6 +3,7 @@
 Product Manager – AI Automation with hands-on Python experience.
 I turn AI prototypes into reliable, reproducible workflows using CI/CD,
 testing, and clear documentation.
+Open to: AI evaluation, data annotation, QA (manual), operations support, and technical/customer support roles.
 
 
 ## Featured Work
