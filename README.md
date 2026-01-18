@@ -11,7 +11,7 @@ testing, and clear documentation.
 - **vision-hud-controller** — Computer vision demo with HUD/overlay controls and saved settings
 
 ## Tech
-Python • APIs • Webhooks • Linux • Git • Automation • (Basic) LLM evaluation • Computer Vision
+Python • CI/CD • Testing • Git • GitHub Actions • Automation • LLM Evaluation (rubrics & regression testing) • Computer Vision.
 
 ## Availability
-100% Remote Worldwide • Async-friendly communication (strong written English; conversational spoken)
+100% Remote (Worldwide) • Async-friendly communication • Strong written English • Comfortable on calls • Bilingual (EN/ES)
